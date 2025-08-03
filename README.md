@@ -58,7 +58,7 @@ Choose: Pipeline script from SCM
 
 SCM: Git
 
-Repository URL: https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+Repository URL: https://github.com/mohdazeem3/Docker-Jenkins-CI-CD-Project.git
 
 Branch: main or master
 
